@@ -1,4 +1,4 @@
-Este repositório, assim como o `inventory-front-projedatateste`, é parte de um teste técnico.
+Este repositório, assim como o `inventory-front-projedatatest`, é parte de um teste técnico.
 ## Instalação
 1. Clone o repositório: `git clone`
 2. Dentro do mesmo diretório onde este repositório foi clonado, clone o repositório do frontend disponível em: https://github.com/hanove/inventory-front-projedatatest
